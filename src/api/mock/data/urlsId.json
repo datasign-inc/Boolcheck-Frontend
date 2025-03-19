@@ -1,0 +1,14 @@
+{
+  "id": "url-uuid-123",
+  "url": "https://science.example.com/article1",
+  "domain": "science.example.com",
+  "content_type": "journal",
+  "title": "最新の宇宙探査技術が発表される",
+  "true_count": 400,
+  "false_count": 80,
+  "else_count": 5,
+  "verified_true_count": 10,
+  "verified_false_count": 19,
+  "verified_else_count": 2,
+  "created_at": "2019-08-24T14:15:22Z"
+}
